@@ -7,6 +7,6 @@ streamlit
 python-dotenv
 PyPDF2
 
-
+-e . # For local installation
 
 

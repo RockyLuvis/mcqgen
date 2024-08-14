@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mcqgen_demo
+Version: 0.0.1
+Author: Raveendra Seetharam
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: pyPDF2
